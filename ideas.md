@@ -6,3 +6,4 @@ IDEAS -
 - Expand my diet
 - Learn freelancing
 - Raise my qualifications
+- Become a Back-end developer
